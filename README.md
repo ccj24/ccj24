@@ -91,7 +91,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
+* <a href='' target='_blank'>澳门walk，没有人是一座孤岛～</a> - 2024-04-13
 * <a href='' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
 * <a href='' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
 * <a href='' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
@@ -107,11 +107,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
-* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
+* <a href='https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/accesstoken-guidelines-0000001493744016-V2'>鸿蒙系统开发</a> - 2023-04-09
+* <a href='' target='_blank'>前端开发演进史</a> - 2023-03-25
+* <a href='' target='_blank'>什么是前端开发</a> - 2024-02-20
+* <a href='' target='_blank'>es6</a> - 2023-09-07
+* <a href='' target='_blank'>JS</a> - 2023-09-07
+* <a href='' target='_blank'>Git</a> - 2023-12-08
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -127,7 +128,7 @@
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-15
 * <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-08
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-11
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-03
 <!-- END_SECTION:douban -->
 
