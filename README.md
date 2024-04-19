@@ -133,6 +133,18 @@
 </td></tr>
 
 <tr><td>
+### 🧠 Online tllo
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://tinypng.com/' target='_blank'>图片压缩</a> - 2023-03-25
+* <a href='https://naotu.baidu.com/' target='_blank'>百度脑图</a> - 2024-02-20
+<!-- END_SECTION:brain -->
+
+</td></tr>
+
+<tr><td>
 
 ### 📊 WakaTime
 
