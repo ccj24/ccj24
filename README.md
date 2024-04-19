@@ -63,24 +63,24 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [深圳市科曼医疗设备有限公司](https://www.comen.com/) &emsp; 📌 2022-12-09 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+  - 工作岗位：Web 前端开发工程师
+  - 工作内容：参与医院设备管理系统web端和app端开发
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [中国南方电网](https://www.csg.cn/) &emsp; 📌 2021-06-03 —— 2024-12-05
 
   - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
+  - 工作内容：负责地质增强二维、三维系统开发
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [广州广电运通金融电子股份有限公司](https://www.grgbanking.com/) &emsp; 📌 2020-11-15 —— 2021-05-31
 
   - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作内容：参与广州地铁安检系统平台的开发
 
 </td></tr>
 
