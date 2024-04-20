@@ -109,8 +109,8 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/accesstoken-guidelines-0000001493744016-V2'>鸿蒙系统开发</a> - 2023-04-09
-* <a href='' target='_blank'>前端开发演进史</a> - 2023-03-25
+* <a href='https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/accesstoken-guidelines-0000001493744016-V2'>鸿蒙系统开发</a> - 2024-04-15
+* <a href='' target='_blank'>前端开发演进史</a> - 2024-04-10
 * <a href='' target='_blank'>什么是前端开发</a> - 2024-02-20
 * <a href='' target='_blank'>es6</a> - 2023-09-07
 * <a href='' target='_blank'>JS</a> - 2023-09-07
@@ -144,8 +144,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://tinypng.com/' target='_blank'>图片压缩</a> - 2023-03-25
-* <a href='https://naotu.baidu.com/' target='_blank'>百度脑图</a> - 2024-02-20
+* <a href='https://tinypng.com/' target='_blank'>图片压缩</a> - 2024-04-16
+* <a href='https://naotu.baidu.com/' target='_blank'>百度脑图</a> - 2024-04-10
+* <a href='https://www.allhistory.com/' target='_blank'>全历史</a> - 2024-02-20
 <!-- END_SECTION:brain -->
 
 </td></tr>
