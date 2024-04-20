@@ -70,7 +70,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [中国南方电网](https://www.csg.cn/) &emsp; 📌 2021-06-03 —— 2024-12-05
+- [中国南方电网](https://www.csg.cn/) &emsp; 📌 2021-06-03 —— 2022-12-05
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：负责地质增强二维、三维系统开发
