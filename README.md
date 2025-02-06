@@ -67,7 +67,6 @@
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：参与军用系统设计和开发
-  - 
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 - [深圳市科曼医疗设备有限公司](https://www.comen.com/) &emsp; 📌 2022-12-09 —— 2024-06-14
