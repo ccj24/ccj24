@@ -62,7 +62,6 @@
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
-
 - [中国航空工业集团有限公司](https://www.avic.com.cn/) &emsp; 📌 2024-07-09 —— Now
 
   - 工作岗位：Web 前端开发工程师
