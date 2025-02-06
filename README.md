@@ -74,14 +74,12 @@
   - 工作内容：参与医院设备管理系统web端和app端开发
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
 - [中国南方电网](https://www.csg.cn/) &emsp; 📌 2021-06-03 —— 2022-12-05
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：负责地质增强二维、三维系统开发
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
 - [广州广电运通金融电子股份有限公司](https://www.grgbanking.com/) &emsp; 📌 2020-11-15 —— 2021-05-31
 
   - 工作岗位：Web 前端开发实习生
